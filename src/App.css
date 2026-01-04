@@ -1,0 +1,6 @@
+/* App-specific styles that complement the design system */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
